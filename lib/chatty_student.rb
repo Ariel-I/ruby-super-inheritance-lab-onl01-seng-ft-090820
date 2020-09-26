@@ -9,7 +9,7 @@ class ChattyStudent
   
   def raise_hand 
     super
-    puts "Picke me!"*10 
+    puts "Picke me!" 10.times
   end 
   
 end
